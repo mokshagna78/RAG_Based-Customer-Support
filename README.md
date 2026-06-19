@@ -1,1 +1,1 @@
-# Gen-AI_FinalProject-RAG_Based-Customer-Support
+# RAG_Based-Customer-Support
